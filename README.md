@@ -1,9 +1,3 @@
-# Steven Sikorski
-
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=stevensikorski.stevensikorski)](https://github.com/stevensikorski) [![GitHub followers](https://img.shields.io/github/followers/stevensikorski.svg?style=social&label=Follow)](https://github.com/stevensikorski?tab=followers)
-
-<br>
-
 ## 👋 &nbsp;About Me
 
 🏫 &nbsp; I'm entering my sophmore year at Hunter College. \
