@@ -4,7 +4,7 @@
 
 <br>
 
-## 👋 &nbsp; About Me
+## 👋 &nbsp;About Me
 
 🏫 &nbsp; I'm entering my sophmore year at Hunter College. \
 🎓 &nbsp; I'm majoring in Computer Science with a minor in Mathematics. \
@@ -14,7 +14,7 @@
   
 <br>
 
-## 🛠️ &nbsp; Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <img title="C++" align="left" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img title="Python" align="left" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
