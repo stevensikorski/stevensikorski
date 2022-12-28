@@ -17,3 +17,4 @@
 <img title="HTML" align="left" width="16px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"/>
 <img title="CSS" align="left" width="16px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
 <img title="JavaScript" align="left" width="16px" src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg"/>
+<img title="Figma" align="left" width="10px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg"/>
