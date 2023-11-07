@@ -1,6 +1,6 @@
 ## 👋 &nbsp;About Me
 
-🏫 &nbsp; I'm currently a sophmore at Hunter College. \
+🏫 &nbsp; I'm currently a junior at Hunter College. \
 🎓 &nbsp; I'm majoring in Computer Science with a minor in Mathematics. \
 💻 &nbsp; I'm a full-stack developer aspiring future ambitions. \
 🏢 &nbsp; I'm looking for software engineering internships. \
