@@ -1,23 +1,31 @@
-## 👋 &nbsp;About Me
+## Steven Sikorski
 
-🏫 &nbsp; I'm currently a junior at Hunter College. \
-🎓 &nbsp; I'm majoring in Computer Science with a minor in Mathematics. \
-💻 &nbsp; I'm a full-stack developer aspiring future ambitions. \
-🏢 &nbsp; I'm looking for software engineering internships. \
-📧 &nbsp; The best way to reach me is by email, contact@stevensikorski.com.
+🎓 CUNY Hunter College (2025)  
+💻 Computer Science Undergraduate  
+🏢 Seeking Software Engineering Opportunities
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stevensikorski)
+[![GitHub followers](https://img.shields.io/github/followers/stevensikorski.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/stevensikorski?tab=followers)
   
-<br>
-
-## 🛠️ &nbsp;Tech Stack
-
-<img title="C++" align="left" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
-<img title="C#" align="left" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg"/>
-<img title="Python" align="left" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-<img title="JavaScript" align="left" height="16px" src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg"/>
-<img title="TypeScript" align="left" height="16px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
-<img title="HTML" align="left" height="16px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg"/>
-<img title="CSS" align="left" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
-<img title="React" align="left" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
-<img title="Tailwind CSS" align="left" height="16px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
-<img title="Node.js" align="left" height="16px" src="http://wiki.glitchdata.com/images/2/25/Nodejs_logo.svg"/>
-<img title="MongoDB" align="left" height="16px" src="http://mongodb-js.github.io/leaf/mongodb-leaf_256x256@2x.png"/>
+## Tech Stack
+<div>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flate&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-390091?style=flat&logo=csharp&logoColor=white">
+  <img src="http://img.shields.io/badge/-Next.js-000000?style=flat&logo=Next.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-React.js-191B21?style=flat&logo=react&logoColor=00c8ff"> 
+  <img src="http://img.shields.io/badge/-Node.js-83CD29?style=flat&logo=Node.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-HTML-FC4A0B?style=flat&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-CSS-2299F8?style=flat&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-161D2D?style=flat&logo=tailwind-css&logoColor=36B7F0">
+  <img src="https://img.shields.io/badge/-.NET-5027D5?style=flat&logo=.net&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Figma-F24D18?style=flat&logo=figma&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-MongoDB-4FAA41?style=flat&logo=mongodb&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-ESLint-4A2EC4?style=flat&logo=eslint&logoColor=white"> 
+  <img src="http://img.shields.io/badge/-CMake-003764?style=flat&logo=cmake&logoColor=white"> 
+  <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> 
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white"> 
+</div>
