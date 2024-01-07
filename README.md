@@ -27,5 +27,5 @@
   <img src="https://img.shields.io/badge/-ESLint-4A2EC4?style=flat&logo=eslint&logoColor=white"> 
   <img src="http://img.shields.io/badge/-CMake-003764?style=flat&logo=cmake&logoColor=white"> 
   <img src="http://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"> 
-  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-npm-%23CB3837.svg?style=flat&logo=npm&logoColor=white"> 
 </div>
