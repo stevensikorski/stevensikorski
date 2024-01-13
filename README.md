@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/-.NET-5027D5?style=flat&logo=.net&logoColor=white"> 
   <img src="https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=opencv&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Figma-F24D18?style=flat&logo=figma&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-MySQL-015F8B?style=flat&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/-MongoDB-4FAA41?style=flat&logo=mongodb&logoColor=white"> 
   <img src="https://img.shields.io/badge/-ESLint-4A2EC4?style=flat&logo=eslint&logoColor=white"> 
   <img src="http://img.shields.io/badge/-CMake-003764?style=flat&logo=cmake&logoColor=white"> 
