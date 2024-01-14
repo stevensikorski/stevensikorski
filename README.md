@@ -4,7 +4,8 @@
 💻 Computer Science Undergraduate  
 🏢 Seeking Software Engineering Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stevensikorski)
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?logo=gmail&logoColor=white)](mailto:contact@stevensikorski.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stevensikorski)
 [![GitHub followers](https://img.shields.io/github/followers/stevensikorski.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/stevensikorski?tab=followers)
   
 ## Tech Stack
